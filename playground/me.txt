@@ -1,5 +1,0 @@
-{{#user}}
-Name: Akash Shridharan
-Skills: HTML, CSS, JS, TS. Tailwind CSS, Next.js, MongoDB
-Email: akashshridharan2802@gmail.com
-{{/user}}
