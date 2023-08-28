@@ -1,0 +1,3 @@
+Name: Akash Shridharan
+Skills: HTML, CSS, JS,Tailwind CSS, ReactJs, Next.js
+Email: akashshridharan2802@gmail.com
